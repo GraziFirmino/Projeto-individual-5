@@ -18,12 +18,12 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 <li>Você prcisará executar os seguintes comandos.</li>
 <li>Npm init </li>
 <li>Npm install readline-sync</li>
-<li>node  index.js </li>
+<li>node  index.js  ou node ./index.js </li>
 </ul>
 <p>
 <strong>Observações.</strong>
-Esse projeto foi desenvolvido usando a versão v18.13.0, caso seja necessário verifique a versão do seu node utilizando o comando node -v no terminal. 
-Quando o arquivo package.json é criado, é preciso acrescentar abaixo de main, "type": "commonjs". 
+  Esse projeto foi desenvolvido usando a <strong><em>versão v18.13.0</em></strong>, caso seja necessário verifique a versão do seu node utilizando o comando <strong><em>node -v</em></strong> no terminal. 
+Quando o arquivo package.json é criado, é preciso acrescentar abaixo de main, <em>"type": "commonjs</em>. 
 
 <img width="250" alt="printpage-commonjs" src="https://user-images.githubusercontent.com/112557569/216472039-c5752ac3-c241-4cb5-ab72-962e0a0e3f08.png">
 </p>
