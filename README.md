@@ -23,7 +23,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 <p>
 <strong>Observações.</strong>
   Esse projeto foi desenvolvido usando a <strong><em>versão v18.13.0</em></strong>, caso seja necessário verifique a versão do seu node utilizando o comando <strong><em>node -v</em></strong> no terminal. 
-Quando o arquivo package.json é criado, é preciso acrescentar abaixo de main, <em>"type": "commonjs</em>. 
+Quando o arquivo package.json é criado, é preciso acrescentar abaixo de main, <em>"type": "commonjs</em>. </p><p>
 
 <img width="250" alt="printpage-commonjs" src="https://user-images.githubusercontent.com/112557569/216472039-c5752ac3-c241-4cb5-ab72-962e0a0e3f08.png">
 </p>
