@@ -1,14 +1,22 @@
 {
   "name": "projeto-individual-5",
   "version": "1.0.0",
-  "description": "Projeto 5 ",
+  "description": "",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GraziFirmino/Projeto-individual-5.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GraziFirmino/Projeto-individual-5/issues"
+  },
+  "homepage": "https://github.com/GraziFirmino/Projeto-individual-5#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
   }
