@@ -30,6 +30,6 @@ Quando o arquivo package.json é criado, é preciso acrescentar abaixo de main, 
 
 
 <h2> Resultado:</h2>
-Observação, após digitar a sugestão é necessário finalizar com  com ponto e virgula (;), caso contrário o texto será jogado para a linha abaixo. 
+Observação, após digitar a sugestão é necessário finalizar com ponto e virgula (;), caso contrário o texto será jogado para a linha abaixo. 
 
 <img width="413" alt="printpage-resultado" src="https://user-images.githubusercontent.com/112557569/216471916-08a926d0-8b08-405c-b1d0-651f1596c36e.png">
