@@ -2,6 +2,7 @@
 ![Banner Neon Gym](https://user-images.githubusercontent.com/112557569/216474831-363bdc00-f293-4138-b111-15a1fdc2fd35.jpg)
 
 <h2><strong> Objetivo do Projeto: </strong></h2>
+
 Criar  um código javascript  usando node que vai receber uma lista de
 propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver
 essa lista ordenada de A-Z. O código deve rodar em um laço que vai receber propriedades até a
